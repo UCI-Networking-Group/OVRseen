@@ -1,0 +1,894 @@
+IGNORE:
+- her child
+- california resident
+- financial
+- colleague
+- channel
+- gallery
+- guardian
+- guest
+- player
+- sale
+- source
+- aggregate
+- member
+- network
+- parent
+- people
+- someone
+- owner
+- recipient
+- customer
+- individual
+- friend
+- product
+- eea
+- eer
+- eu player
+- ccpa
+- child
+- lawyer
+- consultant
+- business purpose
+- acquirer
+- buyer
+- insurer
+- banker
+- llc
+- new owner
+- visitor
+- game
+- room
+adcolony:
+- adcolony inc
+adobe marketing cloud:
+- adobe marketing cloud device co - op
+advertising network:
+- 3rd party advertising
+- ad
+- ad - network
+- ad agency
+- ad agency ' sdk code
+- ad company
+- ad entity
+- ad exchange
+- ad in our service
+- ad management
+- ad management company
+- ad management partner
+- ad network
+- ad network and service provider
+- ad network partner
+- ad network place
+- ad network provider
+- ad network vendor
+- ad on company
+- ad on service
+- ad on various website
+- ad partner
+- ad partners
+- ad platform
+- ad provider
+- ad providers
+- ad publisher
+- ad sdk
+- ad serve technology
+- ad serve vendor
+- ad server
+- ad server company
+- ad service
+- ad service company
+- ad service provider
+- ad serving technology
+- ad technology partner
+- ad technology provider
+- ad tehcnology
+- ad-serve company
+- adtech ad serve system
+- advertise company
+- advertise partner
+- advertise partner on our serice
+- advertise server
+- advertise technology
+- advertise technology product
+- advertisement
+- advertisement network
+- advertisement on application
+- advertisement on godzilab 's web site
+- advertisement on n3twork 's web site
+- advertisement on sapio or sapio advertisement on other application
+- advertisement on website
+- advertisement provider
+- advertisement server company
+- advertisement system
+- advertiser
+- advertiser / service provider
+- advertiser about volume of use on tubi service
+- advertiser of advertisement
+- advertiser on aggregate basis
+- advertiser on aggregate non - personal basis
+- advertiser on mobile device
+- advertiser on our website
+- advertiser or joint venture company
+- advertiser partner
+- advertisers
+- advertising
+- advertising agency
+- advertising agency / provider
+- advertising agent
+- advertising analyst
+- advertising and advertising measurement partner
+- advertising and analyzation system
+- advertising and list brokering network
+- advertising and sale partner
+- advertising banner system
+- advertising campaign service
+- advertising client
+- advertising collaborator
+- advertising company
+- advertising customer
+- advertising display partner
+- advertising entities
+- advertising entity
+- advertising individual
+- advertising management
+- advertising measurement partner
+- advertising mediation platform
+- advertising module
+- advertising network / advertising exchange
+- advertising network company
+- advertising network of our affiliate
+- advertising network provider
+- advertising networks
+- advertising partner
+- advertising partner in compliance
+- advertising partner in de - identify fashion
+- advertising partner in de-identify fashion
+- advertising partner liveramp
+- advertising platform
+- advertising platform partner
+- advertising program
+- advertising provider
+- advertising sdk
+- advertising sdk ( software development kit
+- advertising sdk software development kit
+- advertising serve company
+- advertising server
+- advertising service
+- advertising service provider
+- advertising system
+- advertising technology company
+- advertising technology service provider
+- advertising vendor
+- advertisor
+- affiliate ' direct marketing purpose
+- affiliate ' own direct marketing purpose
+- affiliate business or marketing partner
+- affiliate direct marketing purpose
+- affiliate-marketing network
+- analytic and advertising service
+- application / ad provider
+- approve marketing partner
+- associate advertising network
+- audience segment provider
+- authorize third party advertiser
+- behavioral - base advertising
+- behavioral - base advertising company
+- behavioral-base advertising
+- business , operational , promotional and marketing purpose
+- business and advertising partner
+- business partner marketing activity
+- certain advertiser
+- certain marketing and advertising partner
+- co - marketer
+- co - marketing partner
+- company ' direct marketing purpose
+- company 's advertiser
+- company 's advertising partner
+- company 's direct marketing purpose
+- company and third party marketer
+- corporate affiliate ' direct marketing purpose
+- cross - application advertising
+- customer ' marketing
+- customize advertising
+- dealer advertising association
+- digital advertising alliance
+- digital advertising ecosystem
+- digital marketing
+- digital marketing program
+- digital marketing provider
+- direct marketer
+- direct marketing of their product
+- display advertising feature
+- display advertising partner
+- e - mail marketing purpose
+- each of our advertiser
+- email marketing service provider
+- email marketing service provider mailgram
+- entravision 's advertiser
+- even advertiser
+- external marketing
+- for co - brand and co - sponsor marketing and promotional event
+- give advertising network
+- gm marketing activity
+- hlt marketing activity
+- in - application advertiser
+- integrate ad network
+- interactive advertising bureau
+- interest - base advertising on pangea - own and operate site
+- internal , business relate ( non - marketing ) purpose
+- internet base advertiser
+- its advertising partners
+- its advertising service
+- jackd advertiser
+- jango.com's advertiser
+- joint marketer
+- joint marketing partner
+- l. c. marketing communication
+- llc advertiser
+- mapping or advertising provider
+- market information provider
+- market partner
+- market partner of cdff
+- market researcher
+- marketer
+- marketer of product
+- marketing
+- marketing , affiliate
+- marketing - relate initiative relate
+- marketing - relate purpose
+- marketing activity
+- marketing affiliate
+- marketing agency
+- marketing alliance partner
+- marketing analytic
+- marketing and advertising partner
+- marketing and research partner
+- marketing and research vendor
+- marketing and sale partner
+- marketing automation service provider
+- marketing communication
+- marketing company
+- marketing contractor
+- marketing firm
+- marketing of their own product
+- marketing of vasco product
+- marketing or sale purpose
+- marketing organization
+- marketing partner
+- marketing party
+- marketing platform
+- marketing product
+- marketing provider
+- marketing purpose
+- marketing research company
+- marketing research firm
+- marketing service
+- marketing service company
+- marketing service provider
+- marketing sponsor
+- marketing vendor
+- mobile ad network
+- mobile advertising partner
+- mobile advertising program
+- mobile device advertising
+- mobile marketing vendor
+- network advertiser
+- network advertising initiative
+- non - affiliate joint marketing partner
+- non - marketing purpose
+- notably advertiser
+- offer of advertiser
+- online advertisement on ama 's website
+- online advertiser
+- online advertising
+- online advertising network
+- online advertising partner
+- other advertising vendor
+- our ad management
+- our ad management company
+- our ad partner
+- our ad partners
+- our ad technology partner
+- our advertiser
+- our advertising partner
+- our third party advertising service providers
+- outside marketing company
+- parkwhiz.com advertiser
+- part of your external marketing
+- partner ad network
+- partner advertiser
+- party ' direct marketing purpose
+- pocket prep marketing activity
+- policeone advertiser
+- potential advertiser
+- promotion of third party advertiser
+- provider of advert
+- provider of target advertising
+- purpose of marketing service
+- recipient 's own marketing
+- recipient of such advertising or marketing content
+- remarketing
+- sephora 's joint marketing partner
+- service of advertisement
+- site's advertiser
+- social medium advertising network
+- such ad partner
+- such ad serve partner
+- such advertiser
+- such advertising agency
+- such advertising company
+- such advertising partner
+- such other company ' direct ( and independent ) marketing purpose
+- such party ' direct marketing purpose
+- such party ' own marketing purpose
+- such third party ' direct marketing purpose
+- such third party ' marketing purpose
+- such third partys marketing offer
+- target ad
+- target advertiser
+- third - party ' direct marketing purpose
+- third - party ' own direct marketing purpose
+- third - party ad
+- third - party ad - server
+- third - party ad network
+- third - party ad partner
+- third - party ad provider
+- third - party ad sdk
+- third - party ad serve
+- third - party ad serve company
+- third - party ad server
+- third - party ad service
+- third - party advertisement provider
+- third - party advertiser
+- third - party advertising
+- third - party advertising company
+- third - party advertising network
+- third - party advertising partner
+- third - party advertising provider
+- third - party advertising service partner
+- third - party advertising service provider
+- third - party advertising technology
+- third - party marketer
+- third - party marketing
+- third - party marketing company
+- third - party marketing partner
+- third - party marketing purpose
+- third - party online advertising company
+- third - party online advertising network
+- third - party partner advertise good
+- third - party promotional and marketing partner
+- third - party target advertising cookie
+- third - party target advertising sdk
+- third party ' direct marketing
+- third party ' direct marketing purpose
+- third party ' direct marketing purpose in precede calendar year
+- third party ' marketing purpose
+- third party ' own and independent direct marketing purpose
+- third party ' own direct marketing purpose
+- third party 's direct marketing purpose
+- third party 's marketing purpose
+- third party 's own direct marketing purpose
+- third party 's own marketing purpose
+- third party ad company
+- third party ad delivery provider
+- third party ad network
+- third party ad network provider
+- third party ad partner
+- third party ad provider
+- third party ad server
+- third party advertise partner
+- third party advertisement
+- third party advertisement company
+- third party advertiser
+- third party advertiser in product
+- third party advertiser in sega application
+- third party advertising
+- third party advertising agency
+- third party advertising and personalization partner
+- third party advertising and technology company
+- third party advertising companies
+- third party advertising company
+- third party advertising exchange partner
+- third party advertising network
+- third party advertising partner
+- third party advertising provider
+- third party advertising service
+- third party advertising service provider
+- third party advertising service providers
+- third party advertising technology
+- third party advertising vendor
+- third party advertist company
+- third party direct marketing purpose
+- third party market research service
+- third party marketer
+- third party marketing
+- third party marketing or advertising company
+- third party marketing or advertising purpose
+- third party marketing partner
+- third party marketing purpose
+- third party online advertising network
+- third party remarketing
+- third party website / advertiser / ad - server
+- third- party advertiser
+- third-party ad network
+- third-party ad service
+- third-party ad-server
+- third-party advertiser
+- third-party advertising company
+- third-party advertising network
+- third-party advertising partner
+- third-party advertising service partner
+- third-party advertising service provider
+- trust marketing partner
+- unaffiliated third party ' marketing purpose
+- use in marketing of their product
+- use in marketing product
+- user of our ad service
+amazon:
+- amazon web service
+- amazon web service storage
+- amazon.com , inc
+- aws
+amazon ads:
+- amazon mobile ads
+analytic provider:
+- aggregate customer analytic
+- analytic
+- analytic analysis entity
+- analytic companies
+- analytic company
+- analytic on
+- analytic organization
+- analytic parner
+- analytic partner
+- analytic program
+- analytic report
+- analytic service
+- analytic service provider
+- analytic technology company
+- analytic tool
+- analytic tool provider
+- analytic tools
+- analytic vendor
+- analytical service
+- analytical third - party service
+- analytical tool
+- analytical tools
+- analytics
+- analytics service
+- analytics tools
+- analytics-
+- datum analytic
+- datum analytic company
+- information analytic
+- information analytic company
+- information analytic project
+- information analytic provider
+- information analytic service
+- manager / analytic service
+- measurement analytic
+- medium 's analytic
+- our analytic and attribution partner
+- part of our use of third - party analytic tool
+- part of our use of third-party analytic tool
+- provider of analytic service
+- provider of analytic tool
+- provider of web analytic tool
+- site analytic
+- such analytic
+- such analytic service
+- such web analytic service prover
+- third - party analytic
+- third - party analytic provider
+- third party analytic company
+- third party analytic provider
+- third party analytic service
+- third party analytic service provider
+- third party analytical tool
+- third-party analytic
+- track tool
+- tracking provider
+- tracking tool
+- trend analytic
+- usage analytic
+- web analytic
+- web analytic provider
+- web analytic service provide
+- website analytic
+anyone:
+- public
+appbrain sdk:
+- appbrain
+appodeal:
+- appodealx-dcos-slave1-pub
+- appodealx-dcos-slave2-pub
+- appodealx-dcos-slave3-pub
+- appodealx-dcos-slave4-pub
+- appodealx-dcos-slave5-pub
+branch:
+- branch metric
+- branch metric inc
+corona:
+- corona sdk
+crashlytics:
+- crashlytic
+- crashlytics / fabrics
+facebook:
+- eg facebook
+- facebook 's server
+- facebook ad conversion tracking
+- facebook analytic
+- facebook analytic website_url_lnk
+- facebook audience network
+- facebook business tool
+- facebook business tools
+- facebook companies
+- facebook company
+- facebook connect
+- facebook custom audience
+- facebook custom audiences
+- facebook login
+- plugin facebook
+- website_url_lnk facebook
+firebase:
+- firebase analytic
+- firebase messaging service
+- firebase sdk
+- firebase sdk library
+- google 's firebase analytic tool
+flurry:
+- flurry ads
+- flurry analytic
+google:
+- google 's server
+- google 's server in us
+- google , inc
+- google app
+- google application
+- google health personal health record system
+- google in
+- google in usa
+- google inc
+- google llc
+- google map
+- google maps
+- google play
+- google server
+- google server in
+- google server in u. s
+- google server in us
+- google server in usa
+- google service
+- google service provider
+- google tag manager
+- google tool
+- google's server in us
+- other google service
+- server of google
+- server of google in
+- us google server
+google ads:
+- admob
+- adsense
+- advertising provider google
+- adword
+- adwords
+- doubleclick campaign manager
+- google 's admob subsidiary
+- google admob
+- google admob advertiser
+- google admob service
+- google admod
+- google adsense
+- google adsense service
+- google advertising service
+- google adword
+- google adword advertiser
+- google adwords
+- google adwords conversion tracker
+- google doubleclick
+- google marketing service
+- google mobile ad sdk
+google analytic:
+- google analytic sdk
+- google analytic website_url_link
+- google analytics
+- google analytics demographics
+- google analytics product
+- use of google analytic
+ironsource:
+- iron source
+- iron source ads
+- supersonic
+- supersonic ads
+- supersonic ads ltd
+- supersonicads
+kochava:
+- kochava inc
+- kochava labs
+- kochava labs sezc
+localytics:
+- localytic
+microsoft:
+- cortana
+- microsoft - control affiliate
+- microsoft application
+- microsoft edge
+- microsoft health application
+- microsoft health service
+- microsoft partner
+- microsoft product
+- microsoft server
+- microsoft store
+- microsoft translator service
+moat:
+- moat analytics
+oculus:
+- oculus store
+search engine:
+- search engine provider
+social network:
+- applicable social network
+- applicable social networking service
+- applicable social networks
+- content on social networking site
+- operator of social network
+- other favorite social network
+- other favourite social network
+- power social media feature
+- social login service
+- social media
+- social media features
+- social media network
+- social media platform
+- social media platforms
+- social media services
+- social medium
+- social medium account provider
+- social medium application
+- social medium company
+- social medium feature
+- social medium network
+- social medium outlet
+- social medium platform
+- social medium provider
+- social medium service
+- social medium service provider
+- social medium site
+- social medium website
+- social network feature
+- social network provider
+- social network service
+- social network widget
+- social networking platform
+- social networking service
+- social networking site
+- social networking website
+- social networks
+- third party social medium network
+- third party social medium platform
+- third party social medium platform service
+- third party social medium service
+- third party social medium site
+- third party social medium website
+- third party social network
+- third party social networking service
+- third party social networks
+- third-party social medium service
+- third-party social medium website
+- third-party social network
+- third-party social networks
+- social network plugin provider
+third party:
+- affiliate
+- affiliate company
+- affiliate entity
+- affiliates
+- agent
+- authorized service provider
+- business
+- business partner
+- category of third - party
+- co-brand partner
+- company
+- company's partner
+- contractor
+- entity
+- external third party
+- information partner
+- member of our family of company
+- non - affiliate company
+- non - affiliate third party
+- online service
+- online services
+- organisation
+- organization
+- outside party
+- parties
+- partner
+- partners
+- party
+- platform
+- provider
+- service
+- service of third party
+- service provider
+- service provider in different industry
+- service providers
+- services
+- sponsor
+- subcontractor
+- third - party
+- third - party application
+- third - party business partner
+- third - party company
+- third - party contractor
+- third - party entity
+- third - party organization
+- third - party partner
+- third - party platform
+- third - party processor
+- third - party provider
+- third - party service
+- third - party service provider
+- third - party site
+- third - party sponsor
+- third - party supplier
+- third - party vendor
+- third - party website
+- third part service
+- third parties
+- third party - service provider
+- third party agent
+- third party application
+- third party business
+- third party business partner
+- third party company
+- third party partner
+- third party partners
+- third party platform
+- third party provider
+- third party service
+- third party service provider
+- third party services
+- third party site
+- third party vendor
+- third party website
+- trust partner
+- unaffiliated company
+- unaffiliated entity
+- vendor
+- technology partner
+- category of third party
+- external service
+- nonaffiliated company
+- third party in merger / acquisition
+- information processor
+- it system provider
+- processor
+payment processor:
+- third party payment processor
+- amazon payment
+- applicable payment service provider
+- appropriate credit card company and credit card payment processing company
+- authorized payment processor
+- credit - card processor
+- credit card company
+- credit card payment processing enterprise
+- credit card payment processing service
+- credit card processor
+- credit card processor elavon
+- credit card processor of its choosing
+- credit card service processor
+- credit card transaction processor
+- designated payment processor
+- disbursement and payment provider partner
+- e - commerce payment provider
+- electronic bill payment service provider
+- evsoft 's payment processor
+- external payment security service
+- first american payment system
+- gm credit card bank partner
+- host or payment service provider
+- n3twork 's payment processor
+- online payment processor
+- online shopping cart provider and payment processor
+- outside credit - card processor
+- patreon 's payment processing system
+- payment card network
+- payment card processor
+- payment card provider
+- payment company
+- payment gateway provider
+- payment partner
+- payment platform
+- payment process partner
+- payment processing company
+- payment processor intermediary
+- payment provider
+- payment service
+- payment service network
+- payment service provider
+- payment vendor
+- pci - compliant third party payment processor
+- performance of electronic payment service
+- playtika 's payment processor
+- purpose of payment or health care operation
+- secure and nationally recognize payment processor
+- third - party credit card processor
+- third - party payment card processor
+- third - party payment gateway
+- third - party payment processing company
+- third - party payment processor
+- third - party payment processor vendor
+- third - party payment provider
+- third - party payment service company
+- third - party payment service provider
+- third - party provider of payment service
+- third party credit card payment processing company
+- third party payment processing company
+- third party payment processing platform
+- third party payment processing service provider
+- third party payment service
+- third party payment service provider
+- third party payment vendor
+- third- party payment service provider
+- zynga 's payment processor
+unity:
+- developer use unity analytic
+- third party unity3d company
+- unity 3d
+- unity ad
+- unity ads
+- unity analytic
+- unity analytic website_url_lnk
+- unity cloud build
+- unity collaborate
+- unity multiplayer
+- unity service
+- unity technologies
+- unity technologies aps
+- unity technology
+- unity3d
+- unity  ad service
+- unity website
+verizon:
+- oath
+- oath affiliate
+- oath inch
+- verizon communication
+- verizon media
+sentry:
+- sentry.io
+platform provider:
+- distribution platform
+- platform / service provider
+- partner / platform
+- gaming platform operator
+- distribution platform application
+content provider:
+- third - party content provider
+law enforcement:
+- government
+- governmental
+- governmental authority
+- governmental or regulatory body
+- government or law enforcement official
+- law enforcement agency  request
+- law enforcement body
+- law enforcement official
+- public authority
+- us authority
+- "government : government entity"
+gamesparks:
+- gamespark
+api:
+- sdk
+- apis
+- mobile sdk
+- third - party sdk
+- third party ' sdk
+- third party sdk
+- use of sdk
+- software development kit
