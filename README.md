@@ -20,10 +20,10 @@ We also encourage you to provide us ([athinagroupreleases@gmail.com](mailto:athi
 ## Downloading OVRseen
 One can get started by downloading this repository to a local computer by running the following command.
 ```
-$ https://github.com/UCI-Networking-Group/OVRseen.git
+$ git clone https://github.com/UCI-Networking-Group/OVRseen.git
 ```
 ## Our Datasets
-Please also download [our datasets here](https://athinagroup.eng.uci.edu/projects/ovrseen/ovrseen-datasets/) if one wants to test the entire flow of OVRseen without collecting their own datasets. We will give you access to download these datasets after you fill out the consent form. Then, you can download the zipped file and place it in the `OVRseen` folder on your local machine (after downloading our OVRseen repository); to use `gdown` (as shown in the command below), one has to first activate the Python virtual environment as specified in the _Dependencies_ section below (`gdown` is part of Python libraries). Next, run the `extract_datasets.sh` script to copy the necessary dataset files into the right directories. We can also use the following command to download the zipped file (please replace `<datasets-zipped-file-id>` with the file ID in the download link).
+Please also download [our datasets here](https://athinagroup.eng.uci.edu/projects/ovrseen/ovrseen-datasets/) if one wants to test the entire flow of OVRseen without collecting their own datasets. We will give you access to download these datasets after you fill out the consent form. Then, you can download the zipped file and place it in the `OVRseen` folder on your local machine (after downloading our OVRseen repository); to use `gdown` (as shown in the command below), one has to first activate the Python virtual environment as specified in the [Dependencies section](https://github.com/UCI-Networking-Group/OVRseen#dependencies) below (`gdown` is part of Python libraries). Next, run the `extract_datasets.sh` script to copy the necessary dataset files into the right directories. We can also use the following command to download the zipped file (please replace `<datasets-zipped-file-id>` with the file ID in the download link).
 ```
 OVRseen $ gdown https://drive.google.com/uc?id=<datasets-zipped-file-id> # Downloading our datasets can also be done using a web browser
 OVRseen $ cd supplementary_code
