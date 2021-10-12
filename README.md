@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/411401488.svg)](https://zenodo.org/badge/latestdoi/411401488)
 # OVRseen
 This is the repository for OVRSeen, a system and framework to perform network traffic and privacy policy analyses on VR apps on Oculus Quest 2. OVRSeen was developed and used in the paper [OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR](https://arxiv.org/abs/2106.05407). 
 
