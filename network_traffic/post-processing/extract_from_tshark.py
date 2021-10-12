@@ -218,12 +218,12 @@ def extract_other_pkt(layers, frame_num, include_http_body=False):
 
 
 def extract_from_tshark(full_path, data, is_decrypted, include_http_body=False):
-    with open(full_path, "r") as jf:
+    with open(full_path, "rb") as jf:
         # Since certain json 'keys' appear multiple times in our data, we have to make them
         # unique first (we can't use regular json.load() or we lose some data points). From:
         # https://stackoverflow.com/questions/29321677/python-json-parser-allow-duplicate-keys
         decoder = json.JSONDecoder(object_pairs_hook=parse_object_pairs)
-        pcap_data = decoder.decode(jf.read())
+        pcap_data = decoder.decode(jf.read().decode(errors='ignore'))
 
         for packet in pcap_data:
             layers = packet[json_keys.source][json_keys.layers]
