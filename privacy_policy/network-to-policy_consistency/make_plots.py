@@ -218,6 +218,7 @@ def draw_dtype_barplot(df):
     setup_dtype_axis(ax.yaxis)
     ax.set_ylabel('Data Type', va='top')
     ax.set_xlabel('Number of Data Flows')
+    ax.set_axisbelow(True)
     ax.grid(axis='x')
     ax.legend(loc='lower right', labelspacing=0.1)
 
@@ -238,6 +239,7 @@ def draw_entity_barplot(df):
     ax = agg.plot.barh(stacked=True, color=colors, figsize=figsize)
     ax.set_xlabel('Number of Data Flows')
     ax.set_ylabel('Entity', va="top")
+    ax.set_axisbelow(True)
     ax.grid(axis='x')
     ax.legend(loc='lower right', labelspacing=0.1)
 
@@ -283,8 +285,9 @@ def draw_2cmp_barplot(df1, df2):
     overlay_data.columns = ['previous results', '']
     overlay_data.plot.barh(ax=ax, color='none', alpha=0.40, hatch='////', edgecolor="white", lw=0.0)
 
-    for tick in ax.yaxis.get_major_ticks():
-        ax.axhline(y=tick.get_loc(), lw=2, color="white", zorder=1)
+    for idx, tick in enumerate(ax.yaxis.get_major_ticks()):
+        ax.plot([0, overlay_data.iloc[idx, 1]], [tick.get_loc()] * 2, 'w-', lw=2)
+
     ax.set_xlabel('Number of Data Flows')
     ax.set_ylabel('Entity')
 
@@ -296,6 +299,7 @@ def draw_2cmp_barplot(df1, df2):
             handles.insert(0, handle)
             labels.insert(0, label)
 
+    ax.set_axisbelow(True)
     ax.grid(axis='x')
     ax.legend(handles, labels, labelspacing=0.1, loc="upper right")
 
