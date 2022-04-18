@@ -11,7 +11,7 @@ If you create a publication (including web pages, papers published by a third pa
   title     = {{OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR}},
   author    = {Trimananda, Rahmadi and Le, Hieu and Cui, Hao and Tran Ho, Janice and 
                Shuba, Anastasia and Markopoulou, Athina},
-  booktitle = {31st $\{$USENIX$\}$ security symposium ($\{$USENIX$\}$ security 22)},
+  booktitle = {Proceedings of the 31st USENIX Security Symposium (USENIX Security 22)},
   year      = {2022}
 }
 ```
