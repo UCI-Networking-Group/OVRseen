@@ -67,7 +67,7 @@ get_pcap_files()
 		mkdir $DEST_DIR
 	fi
 	# Pull per directory
-	adb -d pull /sdcard/anteater
+	adb -d pull /sdcard/antmonitor
 	# Rename the directory
 	echo -e "==> PCAP files are stored in $DEST_DIR/$PKG_NAME..."
 	# Move per directory
