@@ -74,7 +74,7 @@ get_pcap_files()
 	rm -rf $DEST_DIR/$PKG_NAME
 	mv anteater $DEST_DIR/$PKG_NAME
 	# Delete the PCAP files on the device
-	adb -d shell 'rm -rf /sdcard/anteater/*'
+	adb -d shell 'rm -rf /sdcard/antmonitor/*'
 	# Save the logcat_output.log file
 	echo -e "==> Saving logcat output into $DEST_DIR/$PKG_NAME..."
 	adb -d logcat -d > $DEST_DIR/$PKG_NAME/logcat_output.log
