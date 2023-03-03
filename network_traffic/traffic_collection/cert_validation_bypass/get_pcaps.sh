@@ -72,7 +72,7 @@ get_pcap_files()
 	echo -e "==> PCAP files are stored in $DEST_DIR/$PKG_NAME..."
 	# Move per directory
 	rm -rf $DEST_DIR/$PKG_NAME
-	mv anteater $DEST_DIR/$PKG_NAME
+	mv antmonitor $DEST_DIR/$PKG_NAME
 	# Delete the PCAP files on the device
 	adb -d shell 'rm -rf /sdcard/antmonitor/*'
 	# Save the logcat_output.log file
