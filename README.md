@@ -34,7 +34,7 @@ OVRseen/supplementary_code $ ./extract_datasets.sh
 Our [Wiki page](https://github.com/UCI-Networking-Group/OVRseen/wiki) contains more information about OVRseen and how to use it (OVRseen has been tested on **Ubuntu 20.04.3 LTS**).
 
 ## Virtual Machine
-For convenience, please use our [Ubuntu 20.04.3 LTS virtual machine (VM) that can be downloaded here](https://drive.google.com/file/d/1M00S5hwKKtavojET6BzVQJZnP3OZvfuD/view?usp=sharing) (login password: `ovrseen`) to run OVRseen; please first download OVRseen (and our datasets) following the above instructions after booting up the VM.
+For convenience, please use our [Ubuntu 20.04.3 LTS virtual machine (VM) that can be downloaded here](https://ucirvine.sharepoint.com/:u:/r/sites/athinagroup/Shared%20Documents/Shared%20Datasets/OVRseen%20Releases/ovrseen.ova?csf=1&web=1&e=xY8loe) (login password: `ovrseen`) to run OVRseen; please first download OVRseen (and our datasets) following the above instructions after booting up the VM.
 
 ## A Quick Demo: Try OVRseen Yourself
 Please note that the VM is set up with 4GB of RAM and 30GB of hard disk capacity. These resources are enough to run the demo of OVRseen as explained in the page [Try OVRseen Yourself](https://github.com/UCI-Networking-Group/OVRseen/wiki/Try-OVRseen-Yourself).
